@@ -1,4 +1,4 @@
-# Learning Portal Project
+# Learning Portal Project using React, Redux and RTK Query
 
 This is by far my one of the complex project I have ever did. Btw , it's a learning portal application where two type of user:
 1. Student
@@ -55,7 +55,7 @@ After opening the project in your localhost then you can use this project locall
 https://github.com/ZmnRobin/learning-portal-client.git/admin
 
 ```
-3. ** The put the admin email and password like this: (Remember: Test all functionalities but don't do anything wrong!)
+3. **The put the admin email and password like this: (Remember: Test all functionalities but don't do anything wrong! )**
 
 ```bash
 email: admin@gmail.com
